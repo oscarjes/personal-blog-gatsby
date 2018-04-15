@@ -4,10 +4,6 @@ layout: page
 path: "/about"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+My path has been far from ordinary: I started out in finance (M&A consulting), then worked on a project with refugees in the Middle East for the German government and the UN. For the last few years I’ve been working in digital marketing, e.g. by being in charge of growth at [WP Curve](https://www.wpcurve.com/) leading up to their acquisition by GoDaddy.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+My current passion, which I plan to pursue for many years to come, is coding. You can read about my unexpected journey learning how to code [here](https://medium.com/@oscarjes/how-i-fell-in--with-coding-attended-a-boot-camp-for-1k-and-built-a-startup-mvp-35a57a777f3/). I’ve since built a [B2B SaaS app](https://www.hirelyapp.com/), a [learning platform for developers](https://prework.coderschool.vn/), and a [fun side-project](https://www.producthunt.com/posts/net-worth-in-crypto) that received 100+ upvotes on producthunt.

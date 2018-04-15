@@ -7,12 +7,20 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Blog',
         path: '/'
       },
       {
         label: 'About me',
         path: '/about/'
+      },
+      {
+        label: 'Software',
+        path: '/software/'
+      },
+      {
+        label: 'Marketing',
+        path: '/marketing/'
       },
       {
         label: 'Contact me',
@@ -23,8 +31,8 @@ module.exports = {
       name: 'Oscar Jesionek',
       email: '#',
       telegram: '#',
-      twitter: 'itsoscarjes',
-      github: '#',
+      twitter: 'oscarjesionek',
+      github: 'oscarjes',
       rss: '#',
       vk: '#'
     }

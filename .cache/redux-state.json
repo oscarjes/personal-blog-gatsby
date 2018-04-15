@@ -8,7 +8,7 @@
       "component": "/Users/Oscar/programming/personal-blog/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1518855261291,
+      "updatedAt": 1523783414709,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/Oscar/programming/personal-blog/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "091b6ea503c5208d11b244c9028689a2",
+        "contentDigest": "9198c34fe9acc647681e915b9db30d5a",
         "owner": "internal-data-bridge"
       }
     },
@@ -1616,7 +1616,7 @@
       "resolve": "/Users/Oscar/programming/personal-blog",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "c9f00f733865cc0ff71f545c021275e7",
+      "version": "465875d2eb0b7b572cf7ea9e00f1625a",
       "pluginOptions": {
         "plugins": []
       },
@@ -1789,7 +1789,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bf0d7379d996f86196cbd8c05356dbb2",
+        "contentDigest": "7311a2c020b7398c645c61c7771f163d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1803,12 +1803,20 @@
         "disqusShortname": "",
         "menu": [
           {
-            "label": "Articles",
+            "label": "Blog",
             "path": "/"
           },
           {
             "label": "About me",
             "path": "/about/"
+          },
+          {
+            "label": "Software",
+            "path": "/software/"
+          },
+          {
+            "label": "Marketing",
+            "path": "/marketing/"
           },
           {
             "label": "Contact me",
@@ -1819,8 +1827,8 @@
           "name": "Oscar Jesionek",
           "email": "#",
           "telegram": "#",
-          "twitter": "itsoscarjes",
-          "github": "#",
+          "twitter": "oscarjesionek",
+          "github": "oscarjes",
           "rss": "#",
           "vk": "#"
         }
@@ -1829,12 +1837,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-17T08:14:15.102Z",
+      "buildTime": "2018-04-15T09:10:09.990Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8372f9bc892a0881248c203e35dd11ee",
+        "contentDigest": "1fc642d884dc2541017877301cdfbeb5",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1844,7 +1852,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "488a27500c7c680a021ac2b3b109cc6f",
+        "contentDigest": "e70849a8af1d61b40c963b5332caa173",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1855,7 +1863,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2018-02-17T08:12:10.660Z",
-      "accessTime": "2018-02-17T08:14:20.684Z",
+      "accessTime": "2018-04-15T09:10:14.065Z",
       "changeTime": "2018-02-17T08:12:10.660Z",
       "birthTime": "2018-02-17T07:47:01.866Z",
       "root": "/",
@@ -1873,11 +1881,11 @@
       "blksize": 4194304,
       "ino": 8595816485,
       "blocks": 0,
-      "atimeMs": 1518855260683.9539,
+      "atimeMs": 1523783414064.659,
       "mtimeMs": 1518855130660.4417,
       "ctimeMs": 1518855130660.4417,
       "birthtimeMs": 1518853621866.4683,
-      "atime": "2018-02-17T08:14:20.684Z",
+      "atime": "2018-04-15T09:10:14.065Z",
       "mtime": "2018-02-17T08:12:10.660Z",
       "ctime": "2018-02-17T08:12:10.660Z",
       "birthtime": "2018-02-17T07:47:01.866Z"
@@ -1887,7 +1895,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6ee3323dd7a1299476a53d222d98bb39",
+        "contentDigest": "5ee3cc9514399a850e4ead9aa01dabf6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1898,7 +1906,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-02-17T07:47:01.992Z",
-      "accessTime": "2018-02-17T08:14:20.686Z",
+      "accessTime": "2018-04-15T09:10:14.067Z",
       "changeTime": "2018-02-17T07:47:01.992Z",
       "birthTime": "2018-02-17T07:47:01.867Z",
       "root": "/",
@@ -1916,11 +1924,11 @@
       "blksize": 4194304,
       "ino": 8595816487,
       "blocks": 0,
-      "atimeMs": 1518855260686.4807,
+      "atimeMs": 1523783414066.7832,
       "mtimeMs": 1518853621991.9827,
       "ctimeMs": 1518853621991.9827,
       "birthtimeMs": 1518853621866.9666,
-      "atime": "2018-02-17T08:14:20.686Z",
+      "atime": "2018-04-15T09:10:14.067Z",
       "mtime": "2018-02-17T07:47:01.992Z",
       "ctime": "2018-02-17T07:47:01.992Z",
       "birthtime": "2018-02-17T07:47:01.867Z"
@@ -1930,7 +1938,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "49eb7d138970d16d3805953fa0adedae",
+        "contentDigest": "414520fbc4f7ccffcc7144ef11e92daf",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1938,11 +1946,11 @@
       "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages",
       "relativePath": "pages",
       "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-02-17T07:47:02.058Z",
-      "accessTime": "2018-02-17T08:14:20.687Z",
-      "changeTime": "2018-02-17T07:47:02.058Z",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2018-04-15T09:01:57.259Z",
+      "accessTime": "2018-04-15T09:10:14.067Z",
+      "changeTime": "2018-04-15T09:01:57.259Z",
       "birthTime": "2018-02-17T07:47:02.010Z",
       "root": "/",
       "dir": "/Users/Oscar/programming/personal-blog/src/pages",
@@ -1952,20 +1960,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 4,
+      "nlink": 6,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8595816508,
       "blocks": 0,
-      "atimeMs": 1518855260686.5383,
-      "mtimeMs": 1518853622058.334,
-      "ctimeMs": 1518853622058.334,
+      "atimeMs": 1523783414066.7612,
+      "mtimeMs": 1523782917259.2214,
+      "ctimeMs": 1523782917259.2214,
       "birthtimeMs": 1518853622010.1255,
-      "atime": "2018-02-17T08:14:20.687Z",
-      "mtime": "2018-02-17T07:47:02.058Z",
-      "ctime": "2018-02-17T07:47:02.058Z",
+      "atime": "2018-04-15T09:10:14.067Z",
+      "mtime": "2018-04-15T09:01:57.259Z",
+      "ctime": "2018-04-15T09:01:57.259Z",
       "birthtime": "2018-02-17T07:47:02.010Z"
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection absPath of file": {
@@ -1973,7 +1981,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a5b7d365d137c8d84c1b95000ecdc2f6",
+        "contentDigest": "48e15096cce67399b9a404e8b41b21d4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1984,7 +1992,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-02-17T07:47:01.885Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:10:14.069Z",
       "changeTime": "2018-02-17T07:47:01.885Z",
       "birthTime": "2018-02-17T07:47:01.867Z",
       "root": "/",
@@ -2002,11 +2010,11 @@
       "blksize": 4194304,
       "ino": 8595816488,
       "blocks": 0,
-      "atimeMs": 1518855260688.5996,
+      "atimeMs": 1523783414069.0703,
       "mtimeMs": 1518853621885.0308,
       "ctimeMs": 1518853621885.0308,
       "birthtimeMs": 1518853621867.0435,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:10:14.069Z",
       "mtime": "2018-02-17T07:47:01.885Z",
       "ctime": "2018-02-17T07:47:01.885Z",
       "birthtime": "2018-02-17T07:47:01.867Z"
@@ -2016,7 +2024,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5d1db422283995422293f4de547a7b5e",
+        "contentDigest": "8ab19d288f54692e02a469104db9af61",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2027,7 +2035,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-02-17T07:47:01.905Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:10:14.069Z",
       "changeTime": "2018-02-17T07:47:01.905Z",
       "birthTime": "2018-02-17T07:47:01.885Z",
       "root": "/",
@@ -2045,11 +2053,11 @@
       "blksize": 4194304,
       "ino": 8595816491,
       "blocks": 0,
-      "atimeMs": 1518855260688.6199,
+      "atimeMs": 1523783414069.0903,
       "mtimeMs": 1518853621904.5266,
       "ctimeMs": 1518853621904.5266,
       "birthtimeMs": 1518853621885.3494,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:10:14.069Z",
       "mtime": "2018-02-17T07:47:01.905Z",
       "ctime": "2018-02-17T07:47:01.905Z",
       "birthtime": "2018-02-17T07:47:01.885Z"
@@ -2059,7 +2067,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "062ba6c6ef4722d341dc342aa7b23d3d",
+        "contentDigest": "38eeed4bb728e9818a50ad13d5fa3dce",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2070,7 +2078,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-02-17T07:47:01.949Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:10:14.069Z",
       "changeTime": "2018-02-17T07:47:01.949Z",
       "birthTime": "2018-02-17T07:47:01.905Z",
       "root": "/",
@@ -2088,11 +2096,11 @@
       "blksize": 4194304,
       "ino": 8595816494,
       "blocks": 0,
-      "atimeMs": 1518855260688.8035,
+      "atimeMs": 1523783414069.1099,
       "mtimeMs": 1518853621948.9968,
       "ctimeMs": 1518853621948.9968,
       "birthtimeMs": 1518853621904.7656,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:10:14.069Z",
       "mtime": "2018-02-17T07:47:01.949Z",
       "ctime": "2018-02-17T07:47:01.949Z",
       "birthtime": "2018-02-17T07:47:01.905Z"
@@ -2102,7 +2110,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "74bf0df10bc3e0797d8998e53096afec",
+        "contentDigest": "f0bcf962947fe8aeb31558ef8e13ab8c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2113,7 +2121,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-02-17T07:47:01.959Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:10:14.069Z",
       "changeTime": "2018-02-17T07:47:01.959Z",
       "birthTime": "2018-02-17T07:47:01.949Z",
       "root": "/",
@@ -2131,11 +2139,11 @@
       "blksize": 4194304,
       "ino": 8595816497,
       "blocks": 0,
-      "atimeMs": 1518855260688.8228,
+      "atimeMs": 1523783414069.122,
       "mtimeMs": 1518853621959.0137,
       "ctimeMs": 1518853621959.0137,
       "birthtimeMs": 1518853621949.1968,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:10:14.069Z",
       "mtime": "2018-02-17T07:47:01.959Z",
       "ctime": "2018-02-17T07:47:01.959Z",
       "birthtime": "2018-02-17T07:47:01.949Z"
@@ -2145,7 +2153,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "663124c035c43210a8e7ca55964f3397",
+        "contentDigest": "6c75360ae2871ae488da61a927289b9d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2156,7 +2164,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-02-17T07:47:02.005Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:10:14.069Z",
       "changeTime": "2018-02-17T07:47:02.005Z",
       "birthTime": "2018-02-17T07:47:01.992Z",
       "root": "/",
@@ -2174,11 +2182,11 @@
       "blksize": 4194304,
       "ino": 8595816502,
       "blocks": 0,
-      "atimeMs": 1518855260688.66,
+      "atimeMs": 1523783414069.1497,
       "mtimeMs": 1518853622004.8118,
       "ctimeMs": 1518853622004.8118,
       "birthtimeMs": 1518853621991.954,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:10:14.069Z",
       "mtime": "2018-02-17T07:47:02.005Z",
       "ctime": "2018-02-17T07:47:02.005Z",
       "birthtime": "2018-02-17T07:47:01.992Z"
@@ -2188,7 +2196,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "135645e2bd64a67688838601fb298383",
+        "contentDigest": "7258dd55f4e50cfe9ff89ca19ad6582a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2198,9 +2206,9 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2018-02-17T07:47:02.058Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
-      "changeTime": "2018-02-17T07:47:02.058Z",
+      "modifiedTime": "2018-04-15T09:01:42.975Z",
+      "accessTime": "2018-04-15T09:10:14.069Z",
+      "changeTime": "2018-04-15T09:01:42.975Z",
       "birthTime": "2018-02-17T07:47:02.010Z",
       "root": "/",
       "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages",
@@ -2217,13 +2225,13 @@
       "blksize": 4194304,
       "ino": 8595816509,
       "blocks": 0,
-      "atimeMs": 1518855260688.6965,
-      "mtimeMs": 1518853622058.0374,
-      "ctimeMs": 1518853622058.0374,
+      "atimeMs": 1523783414069.029,
+      "mtimeMs": 1523782902974.5864,
+      "ctimeMs": 1523782902974.5864,
       "birthtimeMs": 1518853622010.2014,
-      "atime": "2018-02-17T08:14:20.689Z",
-      "mtime": "2018-02-17T07:47:02.058Z",
-      "ctime": "2018-02-17T07:47:02.058Z",
+      "atime": "2018-04-15T09:10:14.069Z",
+      "mtime": "2018-04-15T09:01:42.975Z",
+      "ctime": "2018-04-15T09:01:42.975Z",
       "birthtime": "2018-02-17T07:47:02.010Z"
     },
     "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact absPath of file": {
@@ -2231,7 +2239,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "17ca49de79e5feb92bee2b844c6d1f11",
+        "contentDigest": "d3e186bcb8fee1339f38ebdf777c961f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2242,7 +2250,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-02-17T07:47:02.070Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:10:14.069Z",
       "changeTime": "2018-02-17T07:47:02.070Z",
       "birthTime": "2018-02-17T07:47:02.058Z",
       "root": "/",
@@ -2260,14 +2268,100 @@
       "blksize": 4194304,
       "ino": 8595816512,
       "blocks": 0,
-      "atimeMs": 1518855260688.671,
+      "atimeMs": 1523783414069.0386,
       "mtimeMs": 1518853622069.5845,
       "ctimeMs": 1518853622069.5845,
       "birthtimeMs": 1518853622058.2979,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:10:14.069Z",
       "mtime": "2018-02-17T07:47:02.070Z",
       "ctime": "2018-02-17T07:47:02.070Z",
       "birthtime": "2018-02-17T07:47:02.058Z"
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing absPath of file": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b9204a11f82fe929a31564dc5c4533cf",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing",
+      "relativePath": "pages/2018-04-15---marketing",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-04-15T09:02:03.452Z",
+      "accessTime": "2018-04-15T09:10:14.069Z",
+      "changeTime": "2018-04-15T09:02:03.452Z",
+      "birthTime": "2018-04-15T09:01:50.279Z",
+      "root": "/",
+      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages",
+      "base": "2018-04-15---marketing",
+      "ext": "",
+      "name": "2018-04-15---marketing",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8598513547,
+      "blocks": 0,
+      "atimeMs": 1523783414069.033,
+      "mtimeMs": 1523782923452.348,
+      "ctimeMs": 1523782923452.348,
+      "birthtimeMs": 1523782910278.8748,
+      "atime": "2018-04-15T09:10:14.069Z",
+      "mtime": "2018-04-15T09:02:03.452Z",
+      "ctime": "2018-04-15T09:02:03.452Z",
+      "birthtime": "2018-04-15T09:01:50.279Z"
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software absPath of file": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7761891842c2a458c8cce89b85edb817",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software",
+      "relativePath": "pages/2018-04-15---software",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-04-15T09:02:04.803Z",
+      "accessTime": "2018-04-15T09:10:14.069Z",
+      "changeTime": "2018-04-15T09:02:04.803Z",
+      "birthTime": "2018-04-15T09:01:38.681Z",
+      "root": "/",
+      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages",
+      "base": "2018-04-15---software",
+      "ext": "",
+      "name": "2018-04-15---software",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8598513525,
+      "blocks": 0,
+      "atimeMs": 1523783414069.0605,
+      "mtimeMs": 1523782924803.3992,
+      "ctimeMs": 1523782924803.3992,
+      "birthtimeMs": 1523782898680.6619,
+      "atime": "2018-04-15T09:10:14.069Z",
+      "mtime": "2018-04-15T09:02:04.803Z",
+      "ctime": "2018-04-15T09:02:04.803Z",
+      "birthtime": "2018-04-15T09:01:38.681Z"
     },
     "/Users/Oscar/programming/personal-blog/src/pages/404.jsx absPath of file": {
       "id": "/Users/Oscar/programming/personal-blog/src/pages/404.jsx absPath of file",
@@ -2289,7 +2383,7 @@
       "size": 973,
       "prettySize": "973 B",
       "modifiedTime": "2018-02-17T07:47:01.867Z",
-      "accessTime": "2018-02-17T07:55:12.029Z",
+      "accessTime": "2018-04-15T09:02:49.885Z",
       "changeTime": "2018-02-17T07:47:01.867Z",
       "birthTime": "2018-02-17T07:47:01.867Z",
       "root": "/",
@@ -2307,11 +2401,11 @@
       "blksize": 4194304,
       "ino": 8595816486,
       "blocks": 8,
-      "atimeMs": 1518854112028.8804,
+      "atimeMs": 1523782969884.5864,
       "mtimeMs": 1518853621866.7852,
       "ctimeMs": 1518853621866.7852,
       "birthtimeMs": 1518853621866.6274,
-      "atime": "2018-02-17T07:55:12.029Z",
+      "atime": "2018-04-15T09:02:49.885Z",
       "mtime": "2018-02-17T07:47:01.867Z",
       "ctime": "2018-02-17T07:47:01.867Z",
       "birthtime": "2018-02-17T07:47:01.867Z",
@@ -2339,7 +2433,7 @@
       "size": 1617,
       "prettySize": "1.62 kB",
       "modifiedTime": "2018-02-17T07:47:02.010Z",
-      "accessTime": "2018-02-17T07:56:19.158Z",
+      "accessTime": "2018-04-15T09:02:49.885Z",
       "changeTime": "2018-02-17T07:47:02.010Z",
       "birthTime": "2018-02-17T07:47:02.010Z",
       "root": "/",
@@ -2357,11 +2451,11 @@
       "blksize": 4194304,
       "ino": 8595816507,
       "blocks": 8,
-      "atimeMs": 1518854179157.956,
+      "atimeMs": 1523782969884.6072,
       "mtimeMs": 1518853622010.012,
       "ctimeMs": 1518853622010.012,
       "birthtimeMs": 1518853622009.9292,
-      "atime": "2018-02-17T07:56:19.158Z",
+      "atime": "2018-04-15T09:02:49.885Z",
       "mtime": "2018-02-17T07:47:02.010Z",
       "ctime": "2018-02-17T07:47:02.010Z",
       "birthtime": "2018-02-17T07:47:02.010Z",
@@ -2389,7 +2483,7 @@
       "size": 1969,
       "prettySize": "1.97 kB",
       "modifiedTime": "2018-02-17T07:47:02.010Z",
-      "accessTime": "2018-02-17T07:53:59.158Z",
+      "accessTime": "2018-04-15T09:02:49.885Z",
       "changeTime": "2018-02-17T07:47:02.010Z",
       "birthTime": "2018-02-17T07:47:02.010Z",
       "root": "/",
@@ -2407,11 +2501,11 @@
       "blksize": 4194304,
       "ino": 8595816506,
       "blocks": 8,
-      "atimeMs": 1518854039157.7786,
+      "atimeMs": 1523782969884.5972,
       "mtimeMs": 1518853622009.7998,
       "ctimeMs": 1518853622009.7998,
       "birthtimeMs": 1518853622009.7058,
-      "atime": "2018-02-17T07:53:59.158Z",
+      "atime": "2018-04-15T09:02:49.885Z",
       "mtime": "2018-02-17T07:47:02.010Z",
       "ctime": "2018-02-17T07:47:02.010Z",
       "birthtime": "2018-02-17T07:47:02.010Z",
@@ -2441,7 +2535,7 @@
       "size": 22969,
       "prettySize": "23 kB",
       "modifiedTime": "2018-02-17T08:12:10.659Z",
-      "accessTime": "2018-02-17T08:12:12.801Z",
+      "accessTime": "2018-04-15T09:02:49.885Z",
       "changeTime": "2018-02-17T08:12:10.864Z",
       "birthTime": "2018-02-17T07:47:02.070Z",
       "root": "/",
@@ -2459,11 +2553,11 @@
       "blksize": 4194304,
       "ino": 8595816515,
       "blocks": 48,
-      "atimeMs": 1518855132801.279,
+      "atimeMs": 1523782969884.6633,
       "mtimeMs": 1518855130659.4536,
       "ctimeMs": 1518855130864.269,
       "birthtimeMs": 1518853622069.947,
-      "atime": "2018-02-17T08:12:12.801Z",
+      "atime": "2018-04-15T09:02:49.885Z",
       "mtime": "2018-02-17T08:12:10.659Z",
       "ctime": "2018-02-17T08:12:10.864Z",
       "birthtime": "2018-02-17T07:47:02.070Z",
@@ -2491,7 +2585,7 @@
       "size": 1868,
       "prettySize": "1.87 kB",
       "modifiedTime": "2018-02-17T07:47:02.070Z",
-      "accessTime": "2018-02-17T07:56:13.102Z",
+      "accessTime": "2018-04-15T09:02:49.885Z",
       "changeTime": "2018-02-17T07:47:02.070Z",
       "birthTime": "2018-02-17T07:47:02.070Z",
       "root": "/",
@@ -2509,11 +2603,11 @@
       "blksize": 4194304,
       "ino": 8595816516,
       "blocks": 8,
-      "atimeMs": 1518854173102.2927,
+      "atimeMs": 1523782969884.6624,
       "mtimeMs": 1518853622070.445,
       "ctimeMs": 1518853622070.445,
       "birthtimeMs": 1518853622070.2974,
-      "atime": "2018-02-17T07:56:13.102Z",
+      "atime": "2018-04-15T09:02:49.885Z",
       "mtime": "2018-02-17T07:47:02.070Z",
       "ctime": "2018-02-17T07:47:02.070Z",
       "birthtime": "2018-02-17T07:47:02.070Z",
@@ -2543,7 +2637,7 @@
       "size": 1727,
       "prettySize": "1.73 kB",
       "modifiedTime": "2018-02-17T07:47:01.885Z",
-      "accessTime": "2018-02-17T07:52:55.895Z",
+      "accessTime": "2018-04-15T09:02:40.610Z",
       "changeTime": "2018-02-17T07:47:01.885Z",
       "birthTime": "2018-02-17T07:47:01.885Z",
       "root": "/",
@@ -2561,120 +2655,16 @@
       "blksize": 4194304,
       "ino": 8595816490,
       "blocks": 8,
-      "atimeMs": 1518853975894.6985,
+      "atimeMs": 1523782960610.4524,
       "mtimeMs": 1518853621885.1646,
       "ctimeMs": 1518853621885.1646,
       "birthtimeMs": 1518853621885.005,
-      "atime": "2018-02-17T07:52:55.895Z",
+      "atime": "2018-04-15T09:02:40.610Z",
       "mtime": "2018-02-17T07:47:01.885Z",
       "ctime": "2018-02-17T07:47:01.885Z",
       "birthtime": "2018-02-17T07:47:01.885Z",
       "fields": {
         "slug": "/Perfecting-the-Art-of-Perfection/"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file",
-      "children": [
-        "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "3bb4d35686a451b958e92fe16003a6bd",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md",
-      "relativePath": "articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md",
-      "extension": "md",
-      "size": 2833,
-      "prettySize": "2.83 kB",
-      "modifiedTime": "2018-02-17T07:47:01.905Z",
-      "accessTime": "2018-02-17T07:52:55.895Z",
-      "changeTime": "2018-02-17T07:47:01.905Z",
-      "birthTime": "2018-02-17T07:47:01.905Z",
-      "root": "/",
-      "dir": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8595816493,
-      "blocks": 8,
-      "atimeMs": 1518853975894.923,
-      "mtimeMs": 1518853621904.6064,
-      "ctimeMs": 1518853621904.6064,
-      "birthtimeMs": 1518853621904.501,
-      "atime": "2018-02-17T07:52:55.895Z",
-      "mtime": "2018-02-17T07:47:01.905Z",
-      "ctime": "2018-02-17T07:47:01.905Z",
-      "birthtime": "2018-02-17T07:47:01.905Z",
-      "fields": {
-        "slug": "/The-Origins-of-Social-Stationery-Lettering/"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-      "children": [
-        "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d776568b5baeb65847e4ffec739013ab",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md",
-      "relativePath": "pages/2015-05-01---contact/index.md",
-      "extension": "md",
-      "size": 1799,
-      "prettySize": "1.8 kB",
-      "modifiedTime": "2018-02-17T07:47:02.070Z",
-      "accessTime": "2018-02-17T07:52:55.896Z",
-      "changeTime": "2018-02-17T07:47:02.070Z",
-      "birthTime": "2018-02-17T07:47:02.070Z",
-      "root": "/",
-      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "pages/2015-05-01---contact",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8595816514,
-      "blocks": 8,
-      "atimeMs": 1518853975895.991,
-      "mtimeMs": 1518853622069.7368,
-      "ctimeMs": 1518853622069.7368,
-      "birthtimeMs": 1518853622069.573,
-      "atime": "2018-02-17T07:52:55.896Z",
-      "mtime": "2018-02-17T07:47:02.070Z",
-      "ctime": "2018-02-17T07:47:02.070Z",
-      "birthtime": "2018-02-17T07:47:02.070Z",
-      "fields": {
-        "slug": "/contact/"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md absPath of file": {
@@ -2699,7 +2689,7 @@
       "size": 7279,
       "prettySize": "7.28 kB",
       "modifiedTime": "2018-02-17T07:47:02.005Z",
-      "accessTime": "2018-02-17T07:52:55.896Z",
+      "accessTime": "2018-04-15T09:02:40.611Z",
       "changeTime": "2018-02-17T07:47:02.005Z",
       "birthTime": "2018-02-17T07:47:02.005Z",
       "root": "/",
@@ -2717,68 +2707,16 @@
       "blksize": 4194304,
       "ino": 8595816504,
       "blocks": 16,
-      "atimeMs": 1518853975895.5718,
+      "atimeMs": 1523782960610.5527,
       "mtimeMs": 1518853622004.6648,
       "ctimeMs": 1518853622004.6648,
       "birthtimeMs": 1518853622004.544,
-      "atime": "2018-02-17T07:52:55.896Z",
+      "atime": "2018-04-15T09:02:40.611Z",
       "mtime": "2018-02-17T07:47:02.005Z",
       "ctime": "2018-02-17T07:47:02.005Z",
       "birthtime": "2018-02-17T07:47:02.005Z",
       "fields": {
         "slug": "/Humane-Typography-in-the-Digital-Age/"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
-      "children": [
-        "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1559f766b052ca608a5b66ee6fcfc5b8",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md",
-      "relativePath": "pages/2015-05-01---about/index.md",
-      "extension": "md",
-      "size": 1082,
-      "prettySize": "1.08 kB",
-      "modifiedTime": "2018-02-17T07:47:02.058Z",
-      "accessTime": "2018-02-17T07:52:55.896Z",
-      "changeTime": "2018-02-17T07:47:02.058Z",
-      "birthTime": "2018-02-17T07:47:02.058Z",
-      "root": "/",
-      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "pages/2015-05-01---about",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8595816511,
-      "blocks": 8,
-      "atimeMs": 1518853975895.792,
-      "mtimeMs": 1518853622058.134,
-      "ctimeMs": 1518853622058.134,
-      "birthtimeMs": 1518853622057.9976,
-      "atime": "2018-02-17T07:52:55.896Z",
-      "mtime": "2018-02-17T07:47:02.058Z",
-      "ctime": "2018-02-17T07:47:02.058Z",
-      "birthtime": "2018-02-17T07:47:02.058Z",
-      "fields": {
-        "slug": "/about/"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-02-02---A-Brief-History-of-Typography/index.md absPath of file": {
@@ -2803,7 +2741,7 @@
       "size": 2803,
       "prettySize": "2.8 kB",
       "modifiedTime": "2018-02-17T07:47:01.949Z",
-      "accessTime": "2018-02-17T07:52:55.895Z",
+      "accessTime": "2018-04-15T09:02:40.610Z",
       "changeTime": "2018-02-17T07:47:01.949Z",
       "birthTime": "2018-02-17T07:47:01.949Z",
       "root": "/",
@@ -2821,16 +2759,68 @@
       "blksize": 4194304,
       "ino": 8595816496,
       "blocks": 8,
-      "atimeMs": 1518853975895.069,
+      "atimeMs": 1523782960610.4983,
       "mtimeMs": 1518853621949.0654,
       "ctimeMs": 1518853621949.0654,
       "birthtimeMs": 1518853621948.9878,
-      "atime": "2018-02-17T07:52:55.895Z",
+      "atime": "2018-04-15T09:02:40.610Z",
       "mtime": "2018-02-17T07:47:01.949Z",
       "ctime": "2018-02-17T07:47:01.949Z",
       "birthtime": "2018-02-17T07:47:01.949Z",
       "fields": {
         "slug": "/A-Brief-History-of-Typography/"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file",
+      "children": [
+        "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3bb4d35686a451b958e92fe16003a6bd",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md",
+      "relativePath": "articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md",
+      "extension": "md",
+      "size": 2833,
+      "prettySize": "2.83 kB",
+      "modifiedTime": "2018-02-17T07:47:01.905Z",
+      "accessTime": "2018-04-15T09:02:40.610Z",
+      "changeTime": "2018-02-17T07:47:01.905Z",
+      "birthTime": "2018-02-17T07:47:01.905Z",
+      "root": "/",
+      "dir": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8595816493,
+      "blocks": 8,
+      "atimeMs": 1523782960610.4753,
+      "mtimeMs": 1518853621904.6064,
+      "ctimeMs": 1518853621904.6064,
+      "birthtimeMs": 1518853621904.501,
+      "atime": "2018-04-15T09:02:40.610Z",
+      "mtime": "2018-02-17T07:47:01.905Z",
+      "ctime": "2018-02-17T07:47:01.905Z",
+      "birthtime": "2018-02-17T07:47:01.905Z",
+      "fields": {
+        "slug": "/The-Origins-of-Social-Stationery-Lettering/"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/index.md absPath of file": {
@@ -2855,7 +2845,7 @@
       "size": 16080,
       "prettySize": "16.1 kB",
       "modifiedTime": "2018-02-17T07:47:01.959Z",
-      "accessTime": "2018-02-17T07:52:55.895Z",
+      "accessTime": "2018-04-15T09:02:40.611Z",
       "changeTime": "2018-02-17T07:47:01.959Z",
       "birthTime": "2018-02-17T07:47:01.957Z",
       "root": "/",
@@ -2873,16 +2863,224 @@
       "blksize": 4194304,
       "ino": 8595816500,
       "blocks": 32,
-      "atimeMs": 1518853975895.3052,
+      "atimeMs": 1523782960610.5247,
       "mtimeMs": 1518853621958.846,
       "ctimeMs": 1518853621958.846,
       "birthtimeMs": 1518853621957.497,
-      "atime": "2018-02-17T07:52:55.895Z",
+      "atime": "2018-04-15T09:02:40.611Z",
       "mtime": "2018-02-17T07:47:01.959Z",
       "ctime": "2018-02-17T07:47:01.959Z",
       "birthtime": "2018-02-17T07:47:01.957Z",
       "fields": {
         "slug": "/The-Birth-of-Movable-Type/"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
+      "children": [
+        "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "880d439c540322e3f09d25e1644c6185",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md",
+      "relativePath": "pages/2015-05-01---about/index.md",
+      "extension": "md",
+      "size": 942,
+      "prettySize": "942 B",
+      "modifiedTime": "2018-04-15T08:56:56.000Z",
+      "accessTime": "2018-04-15T09:02:40.611Z",
+      "changeTime": "2018-04-15T08:56:56.321Z",
+      "birthTime": "2018-02-17T07:47:02.058Z",
+      "root": "/",
+      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pages/2015-05-01---about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8595816511,
+      "blocks": 8,
+      "atimeMs": 1523782960610.5989,
+      "mtimeMs": 1523782616000,
+      "ctimeMs": 1523782616320.8596,
+      "birthtimeMs": 1518853622057.9976,
+      "atime": "2018-04-15T09:02:40.611Z",
+      "mtime": "2018-04-15T08:56:56.000Z",
+      "ctime": "2018-04-15T08:56:56.321Z",
+      "birthtime": "2018-02-17T07:47:02.058Z",
+      "fields": {
+        "slug": "/about/"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md absPath of file": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md absPath of file",
+      "children": [
+        "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "72255489412471a0dacbc7f4a395a731",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md",
+      "relativePath": "pages/2018-04-15---software/index.md",
+      "extension": "md",
+      "size": 1386,
+      "prettySize": "1.39 kB",
+      "modifiedTime": "2018-04-15T09:09:58.454Z",
+      "accessTime": "2018-04-15T09:09:58.454Z",
+      "changeTime": "2018-04-15T09:09:58.454Z",
+      "birthTime": "2018-04-15T09:02:04.803Z",
+      "root": "/",
+      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pages/2018-04-15---software",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8598513573,
+      "blocks": 8,
+      "atimeMs": 1523783398453.76,
+      "mtimeMs": 1523783398454.4043,
+      "ctimeMs": 1523783398454.4043,
+      "birthtimeMs": 1523782924803.38,
+      "atime": "2018-04-15T09:09:58.454Z",
+      "mtime": "2018-04-15T09:09:58.454Z",
+      "ctime": "2018-04-15T09:09:58.454Z",
+      "birthtime": "2018-04-15T09:02:04.803Z",
+      "fields": {
+        "slug": "/software/"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+      "children": [
+        "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d776568b5baeb65847e4ffec739013ab",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md",
+      "relativePath": "pages/2015-05-01---contact/index.md",
+      "extension": "md",
+      "size": 1799,
+      "prettySize": "1.8 kB",
+      "modifiedTime": "2018-02-17T07:47:02.070Z",
+      "accessTime": "2018-04-15T09:02:40.611Z",
+      "changeTime": "2018-02-17T07:47:02.070Z",
+      "birthTime": "2018-02-17T07:47:02.070Z",
+      "root": "/",
+      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pages/2015-05-01---contact",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8595816514,
+      "blocks": 8,
+      "atimeMs": 1523782960610.617,
+      "mtimeMs": 1518853622069.7368,
+      "ctimeMs": 1518853622069.7368,
+      "birthtimeMs": 1518853622069.573,
+      "atime": "2018-04-15T09:02:40.611Z",
+      "mtime": "2018-02-17T07:47:02.070Z",
+      "ctime": "2018-02-17T07:47:02.070Z",
+      "birthtime": "2018-02-17T07:47:02.070Z",
+      "fields": {
+        "slug": "/contact/"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md absPath of file": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md absPath of file",
+      "children": [
+        "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b10401178714e7c8fd408a57c4b96605",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md",
+      "relativePath": "pages/2018-04-15---marketing/index.md",
+      "extension": "md",
+      "size": 648,
+      "prettySize": "648 B",
+      "modifiedTime": "2018-04-15T09:08:33.336Z",
+      "accessTime": "2018-04-15T09:08:33.335Z",
+      "changeTime": "2018-04-15T09:08:33.336Z",
+      "birthTime": "2018-04-15T09:02:03.452Z",
+      "root": "/",
+      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pages/2018-04-15---marketing",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8598513566,
+      "blocks": 8,
+      "atimeMs": 1523783313335.4272,
+      "mtimeMs": 1523783313336.1135,
+      "ctimeMs": 1523783313336.1135,
+      "birthtimeMs": 1523782923452.3354,
+      "atime": "2018-04-15T09:08:33.335Z",
+      "mtime": "2018-04-15T09:08:33.336Z",
+      "ctime": "2018-04-15T09:08:33.336Z",
+      "birthtime": "2018-04-15T09:02:03.452Z",
+      "fields": {
+        "slug": "/marketing/"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/type-through-time.jpg absPath of file": {
@@ -2907,7 +3105,7 @@
       "size": 117689,
       "prettySize": "118 kB",
       "modifiedTime": "2018-02-17T07:47:02.010Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:03:13.634Z",
       "changeTime": "2018-02-17T07:47:02.010Z",
       "birthTime": "2018-02-17T07:47:02.005Z",
       "root": "/",
@@ -2925,11 +3123,11 @@
       "blksize": 4194304,
       "ino": 8595816505,
       "blocks": 232,
-      "atimeMs": 1518855260688.877,
+      "atimeMs": 1523782993633.5708,
       "mtimeMs": 1518853622009.5024,
       "ctimeMs": 1518853622009.5024,
       "birthtimeMs": 1518853622004.783,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:03:13.634Z",
       "mtime": "2018-02-17T07:47:02.010Z",
       "ctime": "2018-02-17T07:47:02.010Z",
       "birthtime": "2018-02-17T07:47:02.005Z",
@@ -2943,16 +3141,6 @@
       "parent": "/Users/Oscar/programming/personal-blog/src/pages/photo.jpg absPath of file",
       "internal": {
         "contentDigest": "10d796230263a94000bff2802482f709",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/type-through-time.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/type-through-time.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/type-through-time.jpg absPath of file",
-      "internal": {
-        "contentDigest": "eaa988471fd2b61a1d4d313d0d9a5d23",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2979,7 +3167,7 @@
       "size": 155002,
       "prettySize": "155 kB",
       "modifiedTime": "2018-02-17T07:47:01.952Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:03:13.634Z",
       "changeTime": "2018-02-17T07:47:01.952Z",
       "birthTime": "2018-02-17T07:47:01.949Z",
       "root": "/",
@@ -2997,16 +3185,26 @@
       "blksize": 4194304,
       "ino": 8595816498,
       "blocks": 304,
-      "atimeMs": 1518855260689.3557,
+      "atimeMs": 1523782993633.5266,
       "mtimeMs": 1518853621951.8425,
       "ctimeMs": 1518853621951.8425,
       "birthtimeMs": 1518853621949.2927,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:03:13.634Z",
       "mtime": "2018-02-17T07:47:01.952Z",
       "ctime": "2018-02-17T07:47:01.952Z",
       "birthtime": "2018-02-17T07:47:01.949Z",
       "fields": {
         "slug": "/The-Birth-of-Movable-Type/"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/type-through-time.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/type-through-time.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/type-through-time.jpg absPath of file",
+      "internal": {
+        "contentDigest": "eaa988471fd2b61a1d4d313d0d9a5d23",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Gutenberg.jpg absPath of file >> ImageSharp": {
@@ -3017,6 +3215,58 @@
         "contentDigest": "3e20438298edd3a3fa746766d803f379",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file",
+      "children": [
+        "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9ec265253f068855f00558a9be7f3e03",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png",
+      "relativePath": "articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png",
+      "extension": "png",
+      "size": 326701,
+      "prettySize": "327 kB",
+      "modifiedTime": "2018-02-17T07:47:01.957Z",
+      "accessTime": "2018-04-15T09:03:13.634Z",
+      "changeTime": "2018-02-17T07:47:01.957Z",
+      "birthTime": "2018-02-17T07:47:01.952Z",
+      "root": "/",
+      "dir": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type",
+      "base": "Printing-press.png",
+      "ext": ".png",
+      "name": "Printing-press",
+      "relativeDirectory": "articles/2017-18-08---The-Birth-of-Movable-Type",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8595816499,
+      "blocks": 640,
+      "atimeMs": 1523782993633.5337,
+      "mtimeMs": 1518853621957.3174,
+      "ctimeMs": 1518853621957.3174,
+      "birthtimeMs": 1518853621951.9907,
+      "atime": "2018-04-15T09:03:13.634Z",
+      "mtime": "2018-02-17T07:47:01.957Z",
+      "ctime": "2018-02-17T07:47:01.957Z",
+      "birthtime": "2018-02-17T07:47:01.952Z",
+      "fields": {
+        "slug": "/The-Birth-of-Movable-Type/"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": {
@@ -3060,75 +3310,6 @@
         "categorySlug": "/categories/design-inspiration/"
       }
     },
-    "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: The Origins of Social Stationery Lettering\ndate: \"2016-12-01T22:40:32.169Z\"\nlayout: post\ndraft: false\npath: \"/posts/the-origins-of-social-stationery-lettering\"\ncategory: \"Design Culture\"\ntags:\n  - \"Typefaces\"\n  - \"Lettering\"\n  - \"History\"\ndescription: \"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\"\n---\n\n**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. \n\nVestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.\n\n![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)\n\n## Header Level 2\n\n+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n\nDonec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. \n\n<figure>\n\t<blockquote>\n\t\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>\n\t\t<footer>\n\t\t\t<cite>— Aliquam tincidunt mauris eu risus.</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\n### Header Level 3\n\n+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.\n\n```css\n#header h1 a {\n  display: block;\n  width: 300px;\n  height: 80px;\n}\n```\n\nVestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
-        "contentDigest": "7376244eee056f3025a9f53c11224333",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "tagSlugs": "default-site-plugin",
-          "categorySlug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "The Origins of Social Stationery Lettering",
-        "date": "2016-12-01T22:40:32.169Z",
-        "layout": "post",
-        "draft": false,
-        "path": "/posts/the-origins-of-social-stationery-lettering",
-        "category": "Design Culture",
-        "tags": [
-          "Typefaces",
-          "Lettering",
-          "History"
-        ],
-        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.",
-        "_PARENT": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file",
-        "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md",
-      "fields": {
-        "slug": "/posts/the-origins-of-social-stationery-lettering",
-        "tagSlugs": [
-          "/tags/typefaces/",
-          "/tags/lettering/",
-          "/tags/history/"
-        ],
-        "categorySlug": "/categories/design-culture/"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"Contact me\"\nlayout: page\npath: \"/contact\"\n---\n\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\n\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\n## Header Level 2\n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n+ Vestibulum auctor dapibus neque.\n\n### Header Level 3\n\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\n\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\n\n#### Header Level 4\n\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
-        "contentDigest": "1f0c456475fb4f38099c6afa53058839",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Contact me",
-        "layout": "page",
-        "path": "/contact",
-        "_PARENT": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-        "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md",
-      "fields": {
-        "slug": "/contact"
-      }
-    },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -3170,84 +3351,6 @@
           "/tags/web-development/"
         ],
         "categorySlug": "/categories/typography/"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"About me\"\nlayout: page\npath: \"/about\"\n---\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\nAenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus",
-        "contentDigest": "4b59d2cfb61428e355cb4e364a5ca6ee",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About me",
-        "layout": "page",
-        "path": "/about",
-        "_PARENT": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
-        "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md",
-      "fields": {
-        "slug": "/about"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file",
-      "children": [
-        "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9ec265253f068855f00558a9be7f3e03",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png",
-      "relativePath": "articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png",
-      "extension": "png",
-      "size": 326701,
-      "prettySize": "327 kB",
-      "modifiedTime": "2018-02-17T07:47:01.957Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
-      "changeTime": "2018-02-17T07:47:01.957Z",
-      "birthTime": "2018-02-17T07:47:01.952Z",
-      "root": "/",
-      "dir": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type",
-      "base": "Printing-press.png",
-      "ext": ".png",
-      "name": "Printing-press",
-      "relativeDirectory": "articles/2017-18-08---The-Birth-of-Movable-Type",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8595816499,
-      "blocks": 640,
-      "atimeMs": 1518855260689.3557,
-      "mtimeMs": 1518853621957.3174,
-      "ctimeMs": 1518853621957.3174,
-      "birthtimeMs": 1518853621951.9907,
-      "atime": "2018-02-17T08:14:20.689Z",
-      "mtime": "2018-02-17T07:47:01.957Z",
-      "ctime": "2018-02-17T07:47:01.957Z",
-      "birthtime": "2018-02-17T07:47:01.952Z",
-      "fields": {
-        "slug": "/The-Birth-of-Movable-Type/"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-02-02---A-Brief-History-of-Typography/index.md absPath of file >>> MarkdownRemark": {
@@ -3295,6 +3398,49 @@
         "categorySlug": "/categories/design-inspiration/"
       }
     },
+    "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: The Origins of Social Stationery Lettering\ndate: \"2016-12-01T22:40:32.169Z\"\nlayout: post\ndraft: false\npath: \"/posts/the-origins-of-social-stationery-lettering\"\ncategory: \"Design Culture\"\ntags:\n  - \"Typefaces\"\n  - \"Lettering\"\n  - \"History\"\ndescription: \"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\"\n---\n\n**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. \n\nVestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.\n\n![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)\n\n## Header Level 2\n\n+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n\nDonec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. \n\n<figure>\n\t<blockquote>\n\t\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>\n\t\t<footer>\n\t\t\t<cite>— Aliquam tincidunt mauris eu risus.</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\n### Header Level 3\n\n+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.\n\n```css\n#header h1 a {\n  display: block;\n  width: 300px;\n  height: 80px;\n}\n```\n\nVestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
+        "contentDigest": "7376244eee056f3025a9f53c11224333",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "The Origins of Social Stationery Lettering",
+        "date": "2016-12-01T22:40:32.169Z",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/the-origins-of-social-stationery-lettering",
+        "category": "Design Culture",
+        "tags": [
+          "Typefaces",
+          "Lettering",
+          "History"
+        ],
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.",
+        "_PARENT": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file",
+        "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md",
+      "fields": {
+        "slug": "/posts/the-origins-of-social-stationery-lettering",
+        "tagSlugs": [
+          "/tags/typefaces/",
+          "/tags/lettering/",
+          "/tags/history/"
+        ],
+        "categorySlug": "/categories/design-culture/"
+      }
+    },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -3338,6 +3484,110 @@
         "categorySlug": "/categories/typography/"
       }
     },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"About me\"\nlayout: page\npath: \"/about\"\n---\n\nMy path has been far from ordinary: I started out in finance (M&A consulting), then worked on a project with refugees in the Middle East for the German government and the UN. For the last few years I’ve been working in digital marketing, e.g. by being in charge of growth at [WP Curve](https://www.wpcurve.com/) leading up to their acquisition by GoDaddy.\n\nMy current passion, which I plan to pursue for many years to come, is coding. You can read about my unexpected journey learning how to code [here](https://medium.com/@oscarjes/how-i-fell-in--with-coding-attended-a-boot-camp-for-1k-and-built-a-startup-mvp-35a57a777f3/). I’ve since built a [B2B SaaS app](https://www.hirelyapp.com/), a [learning platform for developers](https://prework.coderschool.vn/), and a [fun side-project](https://www.producthunt.com/posts/net-worth-in-crypto) that received 100+ upvotes on producthunt.",
+        "contentDigest": "a48773b1e52fbaa74489abb3dfb4e20b",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About me",
+        "layout": "page",
+        "path": "/about",
+        "_PARENT": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
+        "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md",
+      "fields": {
+        "slug": "/about"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Software\"\nlayout: page\npath: \"/software\"\n---\n\nI'm a fullstack Ruby on Rails & React developer. Check out some of the things I've been working on below:\n\n###CODERSCHOOL PREWORK (ACTIVE PROJECT)\n\n- Learning platform for developers\n- Frontend in React and backend Rails API\n- Created to have a clear structure for students preparing for upcoming in-class courses\n- Makes it easy to gain more insight into where students are getting stuck\n- Still under development\n\n###HIRELY (ACTIVE PROJECT)\n\n- B2B SaaS App\n- Built using Ruby on Rails & jQuery\n- 100% built by me: came up with initial idea, created wireframes, designed the app, coded & deployed the MVP, etc.\n- Helps businesses manage their recruitment & application pipeline\n- Deployed on VPS with staging & production environments\n\n###NET WORTH IN CRYPTO\n\n- Side project built using Rails in a single weekend\n- Launched on Product Hunt and received 100+ upvotes\n- Deployed on VPS\n\n*The projects below were built for practice purposes and never deployed to production:*\n\n###CODERSCHOOL COFFEE SHOP\n\n- Coffee shop ordering SPA built using React & Stripe\n- Connects to Stripe (serverless) and processes payments\n- Deployed to Github pages\n\n###DUCKSOCIAL\n\n- Social networking app built using Rails and Bulma\n- Deployed to Heroku\n\n###BAHNMI362\n\n- Ruby on Rails restaurant website with checkout functionality\n- Deployed to Heroku",
+        "contentDigest": "23efcb2fc602de84a7e156886056861e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Software",
+        "layout": "page",
+        "path": "/software",
+        "_PARENT": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md absPath of file",
+        "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md",
+      "fields": {
+        "slug": "/software"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Contact me\"\nlayout: page\npath: \"/contact\"\n---\n\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\n\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\n## Header Level 2\n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n+ Vestibulum auctor dapibus neque.\n\n### Header Level 3\n\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\n\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\n\n#### Header Level 4\n\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
+        "contentDigest": "1f0c456475fb4f38099c6afa53058839",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Contact me",
+        "layout": "page",
+        "path": "/contact",
+        "_PARENT": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+        "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md",
+      "fields": {
+        "slug": "/contact"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Marketing\"\nlayout: page\npath: \"/marketing\"\n---\n\nI have been in charge of growth & marketing for a few busineses, including WP Curve leading up to their sale to GoDaddy. Here are some articles that will give you an idea of the work that I have done:\n\n- Our exact process for managing marketing and growth at WP Curve\n- Customer segmentation strategy – How to pitch based on content interest areas (WP Curve’s new lead nurture sequence)\n\n###MARKETING PROJECTS\n\n- Growth @ Excel Rescue (2017/2018)\n- Growth & Finance @ CrewFire & SimpleCrew (2016/2017)\n- Growth @ WP Curve (2015/2016)\n- Marketing & Sales @ Nomad Capitalist (2014/2015)",
+        "contentDigest": "49c5b788cd8ebcf8ad5d9a2faf869735",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Marketing",
+        "layout": "page",
+        "path": "/marketing",
+        "_PARENT": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md absPath of file",
+        "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md",
+      "fields": {
+        "slug": "/marketing"
+      }
+    },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp": {
       "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp",
       "children": [],
@@ -3370,7 +3620,7 @@
       "size": 671242,
       "prettySize": "671 kB",
       "modifiedTime": "2018-02-17T07:47:02.004Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:03:13.634Z",
       "changeTime": "2018-02-17T07:47:02.004Z",
       "birthTime": "2018-02-17T07:47:01.992Z",
       "root": "/",
@@ -3388,26 +3638,16 @@
       "blksize": 4194304,
       "ino": 8595816503,
       "blocks": 1312,
-      "atimeMs": 1518855260688.8599,
+      "atimeMs": 1523782993633.5588,
       "mtimeMs": 1518853622004.3628,
       "ctimeMs": 1518853622004.3628,
       "birthtimeMs": 1518853621992.0642,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:03:13.634Z",
       "mtime": "2018-02-17T07:47:02.004Z",
       "ctime": "2018-02-17T07:47:02.004Z",
       "birthtime": "2018-02-17T07:47:01.992Z",
       "fields": {
         "slug": "/Humane-Typography-in-the-Digital-Age/"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file",
-      "internal": {
-        "contentDigest": "6d93cbc4956a854d4c4369f0e281e7f3",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/1.jpg absPath of file": {
@@ -3432,7 +3672,7 @@
       "size": 738279,
       "prettySize": "738 kB",
       "modifiedTime": "2018-02-17T07:47:02.069Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:03:13.634Z",
       "changeTime": "2018-02-17T07:47:02.069Z",
       "birthTime": "2018-02-17T07:47:02.058Z",
       "root": "/",
@@ -3450,16 +3690,26 @@
       "blksize": 4194304,
       "ino": 8595816513,
       "blocks": 1448,
-      "atimeMs": 1518855260688.9292,
+      "atimeMs": 1523782993633.6206,
       "mtimeMs": 1518853622069.3123,
       "ctimeMs": 1518853622069.3123,
       "birthtimeMs": 1518853622058.4253,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:03:13.634Z",
       "mtime": "2018-02-17T07:47:02.069Z",
       "ctime": "2018-02-17T07:47:02.069Z",
       "birthtime": "2018-02-17T07:47:02.058Z",
       "fields": {
         "slug": "/contact/"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file",
+      "internal": {
+        "contentDigest": "6d93cbc4956a854d4c4369f0e281e7f3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file": {
@@ -3484,7 +3734,7 @@
       "size": 840478,
       "prettySize": "840 kB",
       "modifiedTime": "2018-02-17T07:47:01.885Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:03:13.633Z",
       "changeTime": "2018-02-17T07:47:01.885Z",
       "birthTime": "2018-02-17T07:47:01.867Z",
       "root": "/",
@@ -3502,11 +3752,11 @@
       "blksize": 4194304,
       "ino": 8595816489,
       "blocks": 1648,
-      "atimeMs": 1518855260688.7424,
+      "atimeMs": 1523782993633.4663,
       "mtimeMs": 1518853621884.7769,
       "ctimeMs": 1518853621884.7769,
       "birthtimeMs": 1518853621867.1182,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:03:13.633Z",
       "mtime": "2018-02-17T07:47:01.885Z",
       "ctime": "2018-02-17T07:47:01.885Z",
       "birthtime": "2018-02-17T07:47:01.867Z",
@@ -3556,7 +3806,7 @@
       "size": 970706,
       "prettySize": "971 kB",
       "modifiedTime": "2018-02-17T07:47:01.904Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:03:13.633Z",
       "changeTime": "2018-02-17T07:47:01.904Z",
       "birthTime": "2018-02-17T07:47:01.885Z",
       "root": "/",
@@ -3574,11 +3824,11 @@
       "blksize": 4194304,
       "ino": 8595816492,
       "blocks": 1896,
-      "atimeMs": 1518855260688.7864,
+      "atimeMs": 1523782993633.489,
       "mtimeMs": 1518853621904.281,
       "ctimeMs": 1518853621904.281,
       "birthtimeMs": 1518853621885.429,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:03:13.633Z",
       "mtime": "2018-02-17T07:47:01.904Z",
       "ctime": "2018-02-17T07:47:01.904Z",
       "birthtime": "2018-02-17T07:47:01.885Z",
@@ -3618,7 +3868,7 @@
       "size": 1881547,
       "prettySize": "1.88 MB",
       "modifiedTime": "2018-02-17T07:47:01.992Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:03:13.634Z",
       "changeTime": "2018-02-17T07:47:01.992Z",
       "birthTime": "2018-02-17T07:47:01.959Z",
       "root": "/",
@@ -3636,11 +3886,11 @@
       "blksize": 4194304,
       "ino": 8595816501,
       "blocks": 3680,
-      "atimeMs": 1518855260689.3833,
+      "atimeMs": 1523782993633.5464,
       "mtimeMs": 1518853621991.7231,
       "ctimeMs": 1518853621991.7231,
       "birthtimeMs": 1518853621959.0022,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:03:13.634Z",
       "mtime": "2018-02-17T07:47:01.992Z",
       "ctime": "2018-02-17T07:47:01.992Z",
       "birthtime": "2018-02-17T07:47:01.959Z",
@@ -3654,68 +3904,6 @@
       "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/movable-type.jpg absPath of file",
       "internal": {
         "contentDigest": "0d1540b9a8fca9db753ad10ae0a3427e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
-      "children": [
-        "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg",
-      "relativePath": "pages/2015-05-01---about/1.jpg",
-      "extension": "jpg",
-      "size": 2880631,
-      "prettySize": "2.88 MB",
-      "modifiedTime": "2018-02-17T07:47:02.058Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
-      "changeTime": "2018-02-17T07:47:02.058Z",
-      "birthTime": "2018-02-17T07:47:02.010Z",
-      "root": "/",
-      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about",
-      "base": "1.jpg",
-      "ext": ".jpg",
-      "name": "1",
-      "relativeDirectory": "pages/2015-05-01---about",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8595816510,
-      "blocks": 5632,
-      "atimeMs": 1518855260688.959,
-      "mtimeMs": 1518853622057.6116,
-      "ctimeMs": 1518853622057.6116,
-      "birthtimeMs": 1518853622010.2766,
-      "atime": "2018-02-17T08:14:20.689Z",
-      "mtime": "2018-02-17T07:47:02.058Z",
-      "ctime": "2018-02-17T07:47:02.058Z",
-      "birthtime": "2018-02-17T07:47:02.010Z",
-      "fields": {
-        "slug": "/about/"
-      }
-    },
-    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
-      "internal": {
-        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -3742,7 +3930,7 @@
       "size": 3011570,
       "prettySize": "3.01 MB",
       "modifiedTime": "2018-02-17T07:47:01.949Z",
-      "accessTime": "2018-02-17T08:14:20.689Z",
+      "accessTime": "2018-04-15T09:03:13.634Z",
       "changeTime": "2018-02-17T07:47:01.949Z",
       "birthTime": "2018-02-17T07:47:01.905Z",
       "root": "/",
@@ -3760,16 +3948,68 @@
       "blksize": 4194304,
       "ino": 8595816495,
       "blocks": 5888,
-      "atimeMs": 1518855260689.313,
+      "atimeMs": 1523782993633.5078,
       "mtimeMs": 1518853621948.6912,
       "ctimeMs": 1518853621948.6912,
       "birthtimeMs": 1518853621904.866,
-      "atime": "2018-02-17T08:14:20.689Z",
+      "atime": "2018-04-15T09:03:13.634Z",
       "mtime": "2018-02-17T07:47:01.949Z",
       "ctime": "2018-02-17T07:47:01.949Z",
       "birthtime": "2018-02-17T07:47:01.905Z",
       "fields": {
         "slug": "/A-Brief-History-of-Typography/"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
+      "children": [
+        "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg",
+      "relativePath": "pages/2015-05-01---about/1.jpg",
+      "extension": "jpg",
+      "size": 2880631,
+      "prettySize": "2.88 MB",
+      "modifiedTime": "2018-02-17T07:47:02.058Z",
+      "accessTime": "2018-04-15T09:02:40.611Z",
+      "changeTime": "2018-02-17T07:47:02.058Z",
+      "birthTime": "2018-02-17T07:47:02.010Z",
+      "root": "/",
+      "dir": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about",
+      "base": "1.jpg",
+      "ext": ".jpg",
+      "name": "1",
+      "relativeDirectory": "pages/2015-05-01---about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8595816510,
+      "blocks": 5632,
+      "atimeMs": 1523782960610.5928,
+      "mtimeMs": 1518853622057.6116,
+      "ctimeMs": 1518853622057.6116,
+      "birthtimeMs": 1518853622010.2766,
+      "atime": "2018-04-15T09:02:40.611Z",
+      "mtime": "2018-02-17T07:47:02.058Z",
+      "ctime": "2018-02-17T07:47:02.058Z",
+      "birthtime": "2018-02-17T07:47:02.010Z",
+      "fields": {
+        "slug": "/about/"
       }
     },
     "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-02-02---A-Brief-History-of-Typography/1.jpg absPath of file >> ImageSharp": {
@@ -3778,6 +4018,16 @@
       "parent": "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-02-02---A-Brief-History-of-Typography/1.jpg absPath of file",
       "internal": {
         "contentDigest": "07d3a9ebe902d793eab5fe701b12a6e2",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
+      "internal": {
+        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -3792,7 +4042,7 @@
       "context": {
         "slug": "/posts/perfecting-the-art-of-perfection/"
       },
-      "updatedAt": 1518855261223,
+      "updatedAt": 1523783414645,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/post-template.jsx",
@@ -3801,7 +4051,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "522a585a40b2b2747f689e915de9e4c0",
+        "contentDigest": "4137f29bb56f46f41a967e7dd48809de",
         "owner": "internal-data-bridge"
       }
     },
@@ -3815,7 +4065,7 @@
       "context": {
         "tag": "Handwriting"
       },
-      "updatedAt": 1518855261226,
+      "updatedAt": 1523783414646,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -3824,7 +4074,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c3db5eaf0919ac5a46b65be34a595703",
+        "contentDigest": "d3de32207ae3ead81bd610979df71742",
         "owner": "internal-data-bridge"
       }
     },
@@ -3838,7 +4088,7 @@
       "context": {
         "tag": "Learning to write"
       },
-      "updatedAt": 1518855261227,
+      "updatedAt": 1523783414647,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -3847,7 +4097,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "03453a534c2e6656c26f09c152a3b957",
+        "contentDigest": "4d24c19040e09f46f7772efbc106c4bd",
         "owner": "internal-data-bridge"
       }
     },
@@ -3861,7 +4111,7 @@
       "context": {
         "category": "Design Inspiration"
       },
-      "updatedAt": 1518855261244,
+      "updatedAt": 1523783414653,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/category-template.jsx",
@@ -3870,145 +4120,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bae5cc4411d2178c327eb0d46e206071",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/the-origins-of-social-stationery-lettering": {
-      "layout": "index",
-      "jsonName": "posts-the-origins-of-social-stationery-lettering.json",
-      "internalComponentName": "ComponentPostsTheOriginsOfSocialStationeryLettering",
-      "path": "/posts/the-origins-of-social-stationery-lettering",
-      "component": "/Users/Oscar/programming/personal-blog/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/the-origins-of-social-stationery-lettering"
-      },
-      "updatedAt": 1518855261230,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/post-template.jsx",
-      "id": "SitePage /posts/the-origins-of-social-stationery-lettering",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9ceab8d1d9acaf7c108e90d9e4ec7ca2",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/typefaces/": {
-      "layout": "index",
-      "jsonName": "tags-typefaces.json",
-      "internalComponentName": "ComponentTagsTypefaces",
-      "path": "/tags/typefaces/",
-      "component": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Typefaces"
-      },
-      "updatedAt": 1518855261230,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/typefaces/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2e23a3283d9ab18cb53418f392ec664e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/lettering/": {
-      "layout": "index",
-      "jsonName": "tags-lettering.json",
-      "internalComponentName": "ComponentTagsLettering",
-      "path": "/tags/lettering/",
-      "component": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Lettering"
-      },
-      "updatedAt": 1518855261231,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/lettering/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "647feae25eda0a13f0e13f3b244b7b3f",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/history/": {
-      "layout": "index",
-      "jsonName": "tags-history.json",
-      "internalComponentName": "ComponentTagsHistory",
-      "path": "/tags/history/",
-      "component": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "History"
-      },
-      "updatedAt": 1518855261232,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/history/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8eb8af87bcc8f22e02acbc816fb6191a",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/design-culture/": {
-      "layout": "index",
-      "jsonName": "categories-design-culture.json",
-      "internalComponentName": "ComponentCategoriesDesignCulture",
-      "path": "/categories/design-culture/",
-      "component": "/Users/Oscar/programming/personal-blog/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "Design Culture"
-      },
-      "updatedAt": 1518855261233,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/category-template.jsx",
-      "id": "SitePage /categories/design-culture/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "04777aa15a2001bbc5fdfa535c975a7d",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact",
-      "component": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
-      "componentChunkName": "component---src-templates-page-template-jsx",
-      "context": {
-        "slug": "/contact"
-      },
-      "updatedAt": 1518855261233,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
-      "id": "SitePage /contact",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "91705be83a55fc4abf303f11b1adbeb6",
+        "contentDigest": "78941cbc3b47f934dfc13ca064149712",
         "owner": "internal-data-bridge"
       }
     },
@@ -4022,7 +4134,7 @@
       "context": {
         "slug": "/posts/humane-typography-in-the-digital-age/"
       },
-      "updatedAt": 1518855261234,
+      "updatedAt": 1523783414648,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/post-template.jsx",
@@ -4031,7 +4143,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9b2817daba373f10c4a5bc520d4408b3",
+        "contentDigest": "55160f4d8e0e975589dc4edbdeb04fec",
         "owner": "internal-data-bridge"
       }
     },
@@ -4045,7 +4157,7 @@
       "context": {
         "tag": "Design"
       },
-      "updatedAt": 1518855261235,
+      "updatedAt": 1523783414649,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -4054,7 +4166,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "14741965ccfd1cc63ab620ce6d4a0798",
+        "contentDigest": "649f19141ea052e03195cc0c0c889c4b",
         "owner": "internal-data-bridge"
       }
     },
@@ -4068,7 +4180,7 @@
       "context": {
         "tag": "Typography"
       },
-      "updatedAt": 1518855261246,
+      "updatedAt": 1523783414662,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -4077,7 +4189,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "947333aa3ec0c6064251c1bb280644f9",
+        "contentDigest": "12522fe2c75b07854b0c1ea45544ca06",
         "owner": "internal-data-bridge"
       }
     },
@@ -4091,7 +4203,7 @@
       "context": {
         "tag": "Web Development"
       },
-      "updatedAt": 1518855261237,
+      "updatedAt": 1523783414650,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -4100,7 +4212,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b5d2d3aa7b89b52c9d95eb22de8b6a4d",
+        "contentDigest": "a59d10aee286c7e4c39b9038dc96a4ab",
         "owner": "internal-data-bridge"
       }
     },
@@ -4114,7 +4226,7 @@
       "context": {
         "category": "Typography"
       },
-      "updatedAt": 1518855261247,
+      "updatedAt": 1523783414663,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/category-template.jsx",
@@ -4123,30 +4235,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "78e71b4e7f1b02da2324e2856564ae92",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about",
-      "component": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
-      "componentChunkName": "component---src-templates-page-template-jsx",
-      "context": {
-        "slug": "/about"
-      },
-      "updatedAt": 1518855261241,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
-      "id": "SitePage /about",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "58de349372b55bef6c04e302c2b48192",
+        "contentDigest": "522b2f8f5b84d533b3a42bda4054da69",
         "owner": "internal-data-bridge"
       }
     },
@@ -4160,7 +4249,7 @@
       "context": {
         "slug": "/posts/a-brief-history-of-typography/"
       },
-      "updatedAt": 1518855261242,
+      "updatedAt": 1523783414651,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/post-template.jsx",
@@ -4169,7 +4258,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7c3e444575e509d36de86eb2fd49fc90",
+        "contentDigest": "9c6300b438318bce5b54754de063fc1e",
         "owner": "internal-data-bridge"
       }
     },
@@ -4183,7 +4272,7 @@
       "context": {
         "tag": "Linotype"
       },
-      "updatedAt": 1518855261243,
+      "updatedAt": 1523783414651,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -4192,7 +4281,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "19007dce94c7656856195ea9b6fe5b85",
+        "contentDigest": "9fb56de8ab52f9dd77cc9c829d46824a",
         "owner": "internal-data-bridge"
       }
     },
@@ -4206,7 +4295,7 @@
       "context": {
         "tag": "Monotype"
       },
-      "updatedAt": 1518855261243,
+      "updatedAt": 1523783414652,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -4215,7 +4304,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dae1635eedea0c16948d2cb0b9c603f1",
+        "contentDigest": "16dbe6139751824a1d3650822fcb7423",
         "owner": "internal-data-bridge"
       }
     },
@@ -4229,7 +4318,7 @@
       "context": {
         "tag": "History of typography"
       },
-      "updatedAt": 1518855261243,
+      "updatedAt": 1523783414652,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -4238,7 +4327,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "04a2b0e679a372b3cf04bd46a7b2594e",
+        "contentDigest": "19d4191b6e31f855127c49131e31fffb",
         "owner": "internal-data-bridge"
       }
     },
@@ -4252,7 +4341,7 @@
       "context": {
         "tag": "Helvetica"
       },
-      "updatedAt": 1518855261244,
+      "updatedAt": 1523783414653,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -4261,7 +4350,122 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4ebcba9bb72094f31e3fa8bf2e305172",
+        "contentDigest": "de4a613f50c1bc3df26951efd68cd09a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/the-origins-of-social-stationery-lettering": {
+      "layout": "index",
+      "jsonName": "posts-the-origins-of-social-stationery-lettering.json",
+      "internalComponentName": "ComponentPostsTheOriginsOfSocialStationeryLettering",
+      "path": "/posts/the-origins-of-social-stationery-lettering",
+      "component": "/Users/Oscar/programming/personal-blog/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/the-origins-of-social-stationery-lettering"
+      },
+      "updatedAt": 1523783414654,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/post-template.jsx",
+      "id": "SitePage /posts/the-origins-of-social-stationery-lettering",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "78f283dc9e686a660bb58cf8785e6c99",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/typefaces/": {
+      "layout": "index",
+      "jsonName": "tags-typefaces.json",
+      "internalComponentName": "ComponentTagsTypefaces",
+      "path": "/tags/typefaces/",
+      "component": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Typefaces"
+      },
+      "updatedAt": 1523783414657,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/typefaces/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c0325ea7f8d1b29ef0605772cd5e1beb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/lettering/": {
+      "layout": "index",
+      "jsonName": "tags-lettering.json",
+      "internalComponentName": "ComponentTagsLettering",
+      "path": "/tags/lettering/",
+      "component": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Lettering"
+      },
+      "updatedAt": 1523783414659,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/lettering/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f639a49f6ccebab103048d7bda3973ce",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/history/": {
+      "layout": "index",
+      "jsonName": "tags-history.json",
+      "internalComponentName": "ComponentTagsHistory",
+      "path": "/tags/history/",
+      "component": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "History"
+      },
+      "updatedAt": 1523783414660,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/history/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3e87184a8b97a24f22b92fa83727d8ec",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/design-culture/": {
+      "layout": "index",
+      "jsonName": "categories-design-culture.json",
+      "internalComponentName": "ComponentCategoriesDesignCulture",
+      "path": "/categories/design-culture/",
+      "component": "/Users/Oscar/programming/personal-blog/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "Design Culture"
+      },
+      "updatedAt": 1523783414660,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/category-template.jsx",
+      "id": "SitePage /categories/design-culture/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c81edf8a13de302779d229d337d1a320",
         "owner": "internal-data-bridge"
       }
     },
@@ -4275,7 +4479,7 @@
       "context": {
         "slug": "/posts/the-birth-of-movable-type/"
       },
-      "updatedAt": 1518855261245,
+      "updatedAt": 1523783414661,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/post-template.jsx",
@@ -4284,7 +4488,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d5a146b104a66f30a2e4f343f0c2cd7e",
+        "contentDigest": "47b534a9be91b7fa08c64327d91d3927",
         "owner": "internal-data-bridge"
       }
     },
@@ -4298,7 +4502,7 @@
       "context": {
         "tag": "Open source"
       },
-      "updatedAt": 1518855261245,
+      "updatedAt": 1523783414661,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -4307,7 +4511,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7cb6c8870d90a6cf29b533249f43ee0a",
+        "contentDigest": "0bc2f28bf63ae63a70a8ef0b0c2d94e9",
         "owner": "internal-data-bridge"
       }
     },
@@ -4321,7 +4525,7 @@
       "context": {
         "tag": "Gatsby"
       },
-      "updatedAt": 1518855261246,
+      "updatedAt": 1523783414662,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/tag-template.jsx",
@@ -4330,7 +4534,99 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "36587e7a5e89dd304e57efb84b020ce1",
+        "contentDigest": "db2772584b022df236477770cb25d79c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/about"
+      },
+      "updatedAt": 1523783414663,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
+      "id": "SitePage /about",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aac132206fa3c8935773d8c85cdf53e4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /software": {
+      "layout": "index",
+      "jsonName": "software.json",
+      "internalComponentName": "ComponentSoftware",
+      "path": "/software",
+      "component": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/software"
+      },
+      "updatedAt": 1523783414664,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
+      "id": "SitePage /software",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "63c0c91909d68b4f9f7a44094e0f2b57",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact",
+      "component": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/contact"
+      },
+      "updatedAt": 1523783414664,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
+      "id": "SitePage /contact",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d01443fd8c9ef055d8cd38b9592c2561",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /marketing": {
+      "layout": "index",
+      "jsonName": "marketing.json",
+      "internalComponentName": "ComponentMarketing",
+      "path": "/marketing",
+      "component": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/marketing"
+      },
+      "updatedAt": 1523783414665,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Oscar/programming/personal-blog/src/templates/page-template.jsx",
+      "id": "SitePage /marketing",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "19d7d6742bd20946f3837476bf9e4b1f",
         "owner": "internal-data-bridge"
       }
     },
@@ -4342,7 +4638,7 @@
       "component": "/Users/Oscar/programming/personal-blog/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1518855261299,
+      "updatedAt": 1523783414718,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/pages/404.jsx",
@@ -4351,7 +4647,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2d55e55e4d031642ae2d47667845a84b",
+        "contentDigest": "c57c8bf41252d5503a43d2a56864e9ee",
         "owner": "internal-data-bridge"
       }
     },
@@ -4363,7 +4659,7 @@
       "component": "/Users/Oscar/programming/personal-blog/src/pages/categories.jsx",
       "componentChunkName": "component---src-pages-categories-jsx",
       "context": {},
-      "updatedAt": 1518855261299,
+      "updatedAt": 1523783414719,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/pages/categories.jsx",
@@ -4372,7 +4668,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a4575e642f09bafc3537e764fdbe7319",
+        "contentDigest": "35913631930c94c6a16f856666e3c6ce",
         "owner": "internal-data-bridge"
       }
     },
@@ -4384,7 +4680,7 @@
       "component": "/Users/Oscar/programming/personal-blog/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
-      "updatedAt": 1518855261300,
+      "updatedAt": 1523783414722,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/pages/index.jsx",
@@ -4393,7 +4689,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e28e64fbc3de1cdf0e2df6abbf70ccbf",
+        "contentDigest": "3d958783c695bf16f508c3da47f869c3",
         "owner": "internal-data-bridge"
       }
     },
@@ -4405,7 +4701,7 @@
       "component": "/Users/Oscar/programming/personal-blog/src/pages/tags.jsx",
       "componentChunkName": "component---src-pages-tags-jsx",
       "context": {},
-      "updatedAt": 1518855261300,
+      "updatedAt": 1523783414723,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/pages/tags.jsx",
@@ -4414,7 +4710,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "be96407d6013cf6ca17ebcdc3e61a368",
+        "contentDigest": "ea6f4645cc0e45a8fb88fdb540e62bfc",
         "owner": "internal-data-bridge"
       }
     },
@@ -4426,7 +4722,7 @@
       "component": "/Users/Oscar/programming/personal-blog/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1518855261306,
+      "updatedAt": 1523783414727,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/Oscar/programming/personal-blog/src/pages/404.jsx",
@@ -4435,14 +4731,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e05fb0b5459a485446a4bd86ce0d6278",
+        "contentDigest": "fe708e37ac9ceb150b4d6d879eab2814",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "e8d7f7c232fd7b389291b6b2882ca9c1"
+    "PLUGINS_HASH": "73a3600f25b909b674a74c1711212068"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -4451,26 +4747,28 @@
         "/tags/handwriting/",
         "/posts/perfecting-the-art-of-perfection/",
         "/categories/design-inspiration/",
-        "/posts/the-origins-of-social-stationery-lettering",
-        "/tags/typefaces/",
-        "/tags/lettering/",
-        "/tags/history/",
-        "/categories/design-culture/",
-        "/contact",
         "/posts/humane-typography-in-the-digital-age/",
         "/tags/design/",
         "/tags/typography/",
         "/tags/web-development/",
         "/categories/typography/",
-        "/about",
         "/posts/a-brief-history-of-typography/",
         "/tags/linotype/",
         "/tags/monotype/",
         "/tags/history-of-typography/",
         "/tags/helvetica/",
+        "/posts/the-origins-of-social-stationery-lettering",
+        "/tags/typefaces/",
+        "/tags/lettering/",
+        "/tags/history/",
+        "/categories/design-culture/",
         "/posts/the-birth-of-movable-type/",
         "/tags/open-source/",
         "/tags/gatsby/",
+        "/about",
+        "/software",
+        "/contact",
+        "/marketing",
         "/404/",
         "/categories/",
         "/",
@@ -4480,23 +4778,29 @@
       "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": [
         "/posts/perfecting-the-art-of-perfection/"
       ],
-      "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/the-origins-of-social-stationery-lettering"
-      ],
-      "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": [
-        "/contact"
-      ],
       "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md absPath of file >>> MarkdownRemark": [
         "/posts/humane-typography-in-the-digital-age/"
-      ],
-      "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": [
-        "/about"
       ],
       "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-02-02---A-Brief-History-of-Typography/index.md absPath of file >>> MarkdownRemark": [
         "/posts/a-brief-history-of-typography/"
       ],
+      "/Users/Oscar/programming/personal-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/the-origins-of-social-stationery-lettering"
+      ],
       "/Users/Oscar/programming/personal-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/index.md absPath of file >>> MarkdownRemark": [
         "/posts/the-birth-of-movable-type/"
+      ],
+      "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": [
+        "/about"
+      ],
+      "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---software/index.md absPath of file >>> MarkdownRemark": [
+        "/software"
+      ],
+      "/Users/Oscar/programming/personal-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": [
+        "/contact"
+      ],
+      "/Users/Oscar/programming/personal-blog/src/pages/pages/2018-04-15---marketing/index.md absPath of file >>> MarkdownRemark": [
+        "/marketing"
       ]
     },
     "connections": {
@@ -4504,10 +4808,6 @@
         "/tags/learning-to-write/",
         "/tags/handwriting/",
         "/categories/design-inspiration/",
-        "/tags/typefaces/",
-        "/tags/lettering/",
-        "/tags/history/",
-        "/categories/design-culture/",
         "/tags/design/",
         "/tags/typography/",
         "/tags/web-development/",
@@ -4516,6 +4816,10 @@
         "/tags/monotype/",
         "/tags/history-of-typography/",
         "/tags/helvetica/",
+        "/tags/typefaces/",
+        "/tags/lettering/",
+        "/tags/history/",
+        "/categories/design-culture/",
         "/tags/open-source/",
         "/tags/gatsby/",
         "/categories/",

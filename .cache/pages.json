@@ -31,48 +31,6 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "posts-the-origins-of-social-stationery-lettering.json",
-        "path": "/posts/the-origins-of-social-stationery-lettering"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-typefaces.json",
-        "path": "/tags/typefaces/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-lettering.json",
-        "path": "/tags/lettering/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-history.json",
-        "path": "/tags/history/"
-    },
-    {
-        "componentChunkName": "component---src-templates-category-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "categories-design-culture.json",
-        "path": "/categories/design-culture/"
-    },
-    {
-        "componentChunkName": "component---src-templates-page-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "contact.json",
-        "path": "/contact"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "posts-humane-typography-in-the-digital-age.json",
         "path": "/posts/humane-typography-in-the-digital-age/"
     },
@@ -103,13 +61,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "categories-typography.json",
         "path": "/categories/typography/"
-    },
-    {
-        "componentChunkName": "component---src-templates-page-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "about.json",
-        "path": "/about"
     },
     {
         "componentChunkName": "component---src-templates-post-template-jsx",
@@ -150,6 +101,41 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "posts-the-origins-of-social-stationery-lettering.json",
+        "path": "/posts/the-origins-of-social-stationery-lettering"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-typefaces.json",
+        "path": "/tags/typefaces/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-lettering.json",
+        "path": "/tags/lettering/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-history.json",
+        "path": "/tags/history/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "categories-design-culture.json",
+        "path": "/categories/design-culture/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "posts-the-birth-of-movable-type.json",
         "path": "/posts/the-birth-of-movable-type/"
     },
@@ -166,6 +152,34 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "tags-gatsby.json",
         "path": "/tags/gatsby/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "about.json",
+        "path": "/about"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "software.json",
+        "path": "/software"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "contact.json",
+        "path": "/contact"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "marketing.json",
+        "path": "/marketing"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
