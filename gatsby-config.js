@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Oscar Jesionek | Blog',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+    url: 'https://www.oscarjesionek.com',
+    title: 'Oscar Jesionek',
+    subtitle: "I'm a fullstack developer and growth marketer. This blog is where I share my thoughts on mindfullness, software, and other things that are meaningful to me.",
+    copyright: '',
     disqusShortname: '',
     menu: [
       {
@@ -29,12 +29,12 @@ module.exports = {
     ],
     author: {
       name: 'Oscar Jesionek',
-      email: '#',
-      telegram: '#',
+      email: '',
+      telegram: '',
       twitter: 'oscarjesionek',
       github: 'oscarjes',
-      rss: '#',
-      vk: '#'
+      rss: '',
+      vk: ''
     }
   },
   plugins: [

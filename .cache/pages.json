@@ -1,101 +1,31 @@
 [
     {
-        "componentChunkName": "component---src-templates-post-template-jsx",
+        "componentChunkName": "component---src-templates-page-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "posts-perfecting-the-art-of-perfection.json",
-        "path": "/posts/perfecting-the-art-of-perfection/"
+        "jsonName": "about.json",
+        "path": "/about"
     },
     {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "componentChunkName": "component---src-templates-page-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-handwriting.json",
-        "path": "/tags/handwriting/"
+        "jsonName": "contact.json",
+        "path": "/contact"
     },
     {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "componentChunkName": "component---src-templates-page-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-learning-to-write.json",
-        "path": "/tags/learning-to-write/"
+        "jsonName": "software.json",
+        "path": "/software"
     },
     {
-        "componentChunkName": "component---src-templates-category-template-jsx",
+        "componentChunkName": "component---src-templates-page-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "categories-design-inspiration.json",
-        "path": "/categories/design-inspiration/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "posts-humane-typography-in-the-digital-age.json",
-        "path": "/posts/humane-typography-in-the-digital-age/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-design.json",
-        "path": "/tags/design/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-typography.json",
-        "path": "/tags/typography/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-web-development.json",
-        "path": "/tags/web-development/"
-    },
-    {
-        "componentChunkName": "component---src-templates-category-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "categories-typography.json",
-        "path": "/categories/typography/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "posts-a-brief-history-of-typography.json",
-        "path": "/posts/a-brief-history-of-typography/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-linotype.json",
-        "path": "/tags/linotype/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-monotype.json",
-        "path": "/tags/monotype/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-history-of-typography.json",
-        "path": "/tags/history-of-typography/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-helvetica.json",
-        "path": "/tags/helvetica/"
+        "jsonName": "marketing.json",
+        "path": "/marketing"
     },
     {
         "componentChunkName": "component---src-templates-post-template-jsx",
@@ -136,6 +66,104 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "posts-perfecting-the-art-of-perfection.json",
+        "path": "/posts/perfecting-the-art-of-perfection/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-handwriting.json",
+        "path": "/tags/handwriting/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-learning-to-write.json",
+        "path": "/tags/learning-to-write/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "categories-design-inspiration.json",
+        "path": "/categories/design-inspiration/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "posts-a-brief-history-of-typography.json",
+        "path": "/posts/a-brief-history-of-typography/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-linotype.json",
+        "path": "/tags/linotype/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-monotype.json",
+        "path": "/tags/monotype/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-history-of-typography.json",
+        "path": "/tags/history-of-typography/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-helvetica.json",
+        "path": "/tags/helvetica/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "posts-humane-typography-in-the-digital-age.json",
+        "path": "/posts/humane-typography-in-the-digital-age/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-design.json",
+        "path": "/tags/design/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-typography.json",
+        "path": "/tags/typography/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-web-development.json",
+        "path": "/tags/web-development/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "categories-typography.json",
+        "path": "/categories/typography/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "posts-the-birth-of-movable-type.json",
         "path": "/posts/the-birth-of-movable-type/"
     },
@@ -152,34 +180,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "tags-gatsby.json",
         "path": "/tags/gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-page-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "about.json",
-        "path": "/about"
-    },
-    {
-        "componentChunkName": "component---src-templates-page-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "software.json",
-        "path": "/software"
-    },
-    {
-        "componentChunkName": "component---src-templates-page-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "contact.json",
-        "path": "/contact"
-    },
-    {
-        "componentChunkName": "component---src-templates-page-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "marketing.json",
-        "path": "/marketing"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
