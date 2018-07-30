@@ -10,7 +10,7 @@ class PageTemplate extends React.Component {
     const description = pageDescription !== null ? pageDescription : subtitle;
 
     return (
-      <div>
+      <div className="container">
         <Helmet>
           <title>{`${pageTitle} - ${title}`}</title>
           <meta name="description" content={description} />
@@ -29,14 +29,17 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         subtitle
+        subtitle2
+        subtitle3
+        subtitle4
         menu {
           label
           path
         }
         author {
           name
+          instagram
           twitter
-          github
         }
       }
     }

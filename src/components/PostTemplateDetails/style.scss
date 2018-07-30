@@ -8,15 +8,15 @@
         margin: 0 auto;
     }
     &__title {
-        font-size: $typographic-base-font-size * 2;
+        font-size: $typographic-base-font-size * 3;
         max-width: $layout-post-single-width;
         margin-left: auto;
         margin-right: auto;
         font-weight: 600;
         text-align: center;
-        @include line-height(1.65);
+        @include line-height(2.25);
         @include margin-top(1);
-        @include margin-bottom(0);
+        @include margin-bottom(1);
     }
     &__body {
         & figure {
@@ -51,9 +51,12 @@
         }
     }
     &__footer {
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
         max-width: $layout-post-single-width;
-        margin-left: 15px;
-        margin-right: 15px;
+        margin-left: auto;
+        margin-right: auto;
         @include line-height(1);
         @include margin-top(1);
         @include margin-bottom(2);
@@ -137,12 +140,16 @@
 @include breakpoint-md {
     .post-single {
         &__inner {
-            padding: 0;
+            padding: 36px 18px 18px 18px;
+        }
+        &__footer {
+            padding: 0 18px;
+            margin: 0 auto;
         }
         &__title {
             font-size: $typographic-base-font-size * 3;
             @include line-height(2.25);
-            @include margin-top(2.25);
+            @include margin-top(0);
             @include margin-bottom(1.5);
         }
         &__body {

@@ -1,18 +1,21 @@
 var plugins = [{
-      plugin: require('/Users/Oscar/programming/personal-blog/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
+      plugin: require('/Users/oj/code/personal/personal-blog-gatsby/node_modules/gatsby-plugin-google-analytics/gatsby-browser'),
       options: {"plugins":[],"trackingId":"UA-73379983-2"},
     },{
-      plugin: require('/Users/Oscar/programming/personal-blog/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
-      options: {"plugins":[]},
-    },{
-      plugin: require('/Users/Oscar/programming/personal-blog/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
+      plugin: require('/Users/oj/code/personal/personal-blog-gatsby/node_modules/gatsby-plugin-offline/gatsby-browser'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks
 // basically like:
 // var plugins = [
-//   require('/path/to/plugin1/gatsby-browser.js'),
-//   require('/path/to/plugin2/gatsby-browser.js'),
+//   {
+//     plugin: require("/path/to/plugin1/gatsby-browser.js"),
+//     options: { ... },
+//   },
+//   {
+//     plugin: require("/path/to/plugin2/gatsby-browser.js"),
+//     options: { ... },
+//   },
 // ]
 
 export function apiRunner(api, args, defaultReturn) {

@@ -1,8 +1,11 @@
 module.exports = {
   siteMetadata: {
     url: 'https://www.oscarjesionek.com',
-    title: 'Oscar Jesionek',
-    subtitle: "I'm a fullstack developer and growth marketer. This blog is where I share my thoughts on mindfullness, software, and other things that are meaningful to me.",
+    title: 'Oscar Jesionek | Marketing Developer',
+    subtitle: "👨🏻‍💻 Marketing developer",
+    subtitle2: "💻 React & Rails",
+    subtitle3: "🌴 Working remotely",
+    subtitle4: "📍 Europe & Asia",
     copyright: '',
     disqusShortname: '',
     menu: [
@@ -30,9 +33,10 @@ module.exports = {
     author: {
       name: 'Oscar Jesionek',
       email: '',
+      instagram: 'oscarjesionek',
       telegram: '',
       twitter: 'oscarjesionek',
-      github: 'oscarjes',
+      github: '',
       rss: '',
       vk: ''
     }

@@ -3,6 +3,7 @@ import Link from 'gatsby-link';
 import moment from 'moment';
 import Disqus from '../Disqus/Disqus';
 import './style.scss';
+import Sidebar from '../Sidebar/index'
 
 class PostTemplateDetails extends React.Component {
   render() {
@@ -11,9 +12,8 @@ class PostTemplateDetails extends React.Component {
     const tags = post.fields.tagSlugs;
 
     const homeBlock = (
-      <div>
-        <Link className="post-single__home-button" to="/">All Articles</Link>
-      </div>
+      // TO DO: FIX STYLING
+      <Sidebar {...this.props} />      
     );
 
     const tagsBlock = (
@@ -37,7 +37,7 @@ class PostTemplateDetails extends React.Component {
     );
 
     return (
-      <div>
+      <div className="container">
         {homeBlock}
         <div className="post-single">
           <div className="post-single__inner">

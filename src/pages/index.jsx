@@ -13,7 +13,7 @@ class IndexRoute extends React.Component {
     });
 
     return (
-      <div>
+      <div className="container">
         <Helmet>
           <title>{title}</title>
           <meta name="description" content={subtitle} />
@@ -37,6 +37,9 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         subtitle
+        subtitle2
+        subtitle3
+        subtitle4
         copyright
         menu {
           label
@@ -44,8 +47,8 @@ export const pageQuery = graphql`
         }
         author {
           name
+          instagram
           twitter
-          github
         }
       }
     }

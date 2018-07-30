@@ -9,7 +9,7 @@ class CategoryTemplate extends React.Component {
     const { category } = this.props.pathContext;
 
     return (
-      <div>
+      <div className="container">
         <Helmet title={`${category} - ${title}`} />
         <Sidebar {...this.props} />
         <CategoryTemplateDetails {...this.props} />
@@ -26,6 +26,9 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         subtitle
+        subtitle2
+        subtitle3
+        subtitle4
         copyright
         menu {
           label
@@ -34,7 +37,7 @@ export const pageQuery = graphql`
         author {
           name
           twitter
-          github
+          instagram
         }
       }
     }

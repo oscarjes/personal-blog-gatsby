@@ -10,7 +10,7 @@ class PostTemplate extends React.Component {
     const description = postDescription !== null ? postDescription : subtitle;
 
     return (
-      <div>
+      <div className="container">
         <Helmet>
           <title>{`${postTitle} - ${title}`}</title>
           <meta name="description" content={description} />
@@ -29,10 +29,18 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         subtitle
+        subtitle2
+        subtitle3
+        subtitle4
+        menu {
+          label
+          path
+        }
         copyright
         author {
           name
           twitter
+          instagram
         }
         url
       }
